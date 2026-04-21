@@ -8,7 +8,7 @@ FastAPI
 SQLAlchemy (SQLite)
 Pydantic
 
-
+```
 src/
  |- api
     |- movie_api.py
@@ -27,5 +27,5 @@ src/
     |- movie.py
 main.py
 pyproject.toml
-
+```
 Додати зберігання рейтингів для фільмів
